@@ -46,7 +46,3 @@ python3 meter_reader_rs485.py
 
 - Make sure your user has permission to access the serial port (`/dev/ttyUSB0`).
 - You can use these scripts to test RS-485 wiring, adapters, and Modbus register mapping.
-
-## License
-
-MIT License
